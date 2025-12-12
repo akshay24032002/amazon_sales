@@ -1,0 +1,1 @@
+The purpose of this analysis was to study Amazon sales data to understand order patterns, revenue performance, product demand, and customer behaviour. The analysis focused on identifying key trends in sales volume, pricing, categories, ratings, and fulfillment patterns.
